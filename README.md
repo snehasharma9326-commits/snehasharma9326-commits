@@ -1,4 +1,9 @@
-## Hi there 👋
+Hi, I am Shalini Sharma 👋
+
+🎓 B.Tech CSE (Data Analytics) student at Sunstone.
+I am passionate💻 about learning new technologies.
+Building a strong foundation in programming.
+📚 Currently learning C, Python, and Web Fundamentals.
 
 <!--
 **snehasharma9326-commits/snehasharma9326-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
