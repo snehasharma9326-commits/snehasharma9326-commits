@@ -37,7 +37,7 @@
 | 🌟 Category | 📖 Details |
 |------------|------------|
 | 🎓 Degree | B.Tech CSE (Data Analytics) |
-| 📍 state | Madhya Pradesh |
+| 📍 Location | Madhya Pradesh , INDIA |
 | 💻 Focus | Programming & Data Analytics |
 | 🌱 Currently Learning | C, C++, Python, SQL, HTML, CSS, JavaScript |
 | 💼 Looking For | Internship Opportunities |
@@ -143,7 +143,7 @@ I believe in continuous learning and hands-on practice.
 
 # 🎯 Goals for 2026
 
-- 🚀 Build **30+ Real World Projects**
+- 🚀 Build  **Real World Projects**
 - 💼 Get a **Software Development / Data Analytics Internship**
 - 📚 Master **Python & SQL**
 - 🧩 Solve **500+ Coding Problems**
