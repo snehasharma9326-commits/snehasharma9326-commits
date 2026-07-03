@@ -2,13 +2,16 @@
 👋 Welcome to My GitHub Profile
 💻 Turning Ideas into Code and Data into Meaningful Insights
   
-# 👋 Hey, I'm Shalini Sharma
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=BB6BD9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shalini+Sharma+%F0%9F%91%8B;B.Tech+CSE+(Data+Analytics);Aspiring+Software+Developer;Learning+AI+%7C+ML+%7C+Python;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80"/>
 </p>
 
 <br>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=snehasharma9326-commits&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+</p>
 
 </div>
 
