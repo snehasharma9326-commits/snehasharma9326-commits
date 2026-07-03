@@ -146,11 +146,11 @@ I believe in continuous learning and hands-on practice.
 - 🚀 Build  **Real World Projects**
 - 💼 Get a **Software Development / Data Analytics Internship**
 - 📚 Master **Python & SQL**
-- 🧩 Solve **500+ Coding Problems**
+- 🧩 Solve **Maximum Coding Problems**
 - 🌱 Contribute to **Open Source**
 - 🤖 Learn **Machine Learning & Deep Learning**
 - 🌐 Launch My Personal Portfolio Website
-- ⭐ Reach **1000+ GitHub Contributions**
+- ⭐ Reach **Maximum GitHub Contributions**
 - 📱 Build Full Stack Projects
 - 🏆 Keep Learning Every Day
 - 🏆 Strengthen Data Structures & Algorithms
