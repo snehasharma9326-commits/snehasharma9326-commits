@@ -122,14 +122,6 @@ I believe in continuous learning and hands-on practice.
 - 🏅SQL
 - 🏅Machine Learning
   
-### 📖 Currently Learning
-
-- 📊 Data Analytics
-- 🗄 SQL
-- 🌐 HTML & CSS
-- ⚡ JavaScript
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
 
 ### 🎯 Next Certifications
 
