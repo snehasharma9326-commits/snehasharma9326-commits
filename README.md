@@ -4,7 +4,7 @@
   
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=BB6BD9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shalini+Sharma+%F0%9F%91%8B;B.Tech+CSE+(Data+Analytics);Aspiring+Software+Developer;Learning+AI+%7C+ML+%7C+Python;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=BB6BD9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shalini+Sharma+%F0%9F%91%8B;B.Tech+CSE+(Data+Analytics);Aspiring+Data+Analyst;Learning+AI+%7C+ML+%7C+Python;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80"/>
 </p>
 
 <br>
@@ -102,13 +102,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=snehasharma9326-commits&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
-
-</div>
 
 ---
 
