@@ -9,7 +9,6 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=snehasharma9326-commits&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 </p>
-<img src="https://komarev.com/ghpvc/?username=snehasharma9326-commits&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
 
 </div>
 
