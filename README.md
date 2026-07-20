@@ -94,7 +94,11 @@
 
 ---
 
+## 🔥 GitHub Contribution Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
 
 ---
 
