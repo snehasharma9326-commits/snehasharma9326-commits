@@ -110,6 +110,11 @@
 
 </div>
 
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=snehasharma9326-commits&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 
 # 📚 Certifications
